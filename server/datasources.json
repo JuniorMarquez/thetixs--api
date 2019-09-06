@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "18.220.163.193",
+    "port": 25018,
+    "url": "",
+    "database": "TixsDB",
+    "password": "",
+    "name": "db",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
